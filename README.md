@@ -36,7 +36,7 @@ A sleek and customizable *Password Generator App* built with *React, **Vite, **T
 ---
 ## 📦 Installation & Setup
 # 1. Clone the repository
-git clone https://github.com/yourusername/password-generator-react.git
+git clone https://github.com/Mardavweb/password-generator.git
 cd password-generator-react
 
 # 2. Install dependencies
