@@ -28,12 +28,6 @@ A sleek and customizable *Password Generator App* built with *React, **Vite, **T
 - 🧱 *HTML5*
 
 ---
-
-## 📸 Preview
-
-![Password Generator Preview](screenshot.png.png)
-
----
 ## 📦 Installation & Setup
 # 1. Clone the repository
 git clone https://github.com/Mardavweb/password-generator.git
