@@ -25,7 +25,12 @@ A sleek and customizable *Password Generator App* built with *React, **Vite, **T
 - ⚡ *Vite* (Build tool)
 - 🎨 *Tailwind CSS* (Styling)
 - 🧠 *JavaScript* (Logic)
-- 🧱 *HTML5*
+- 🧱 *HTML*
+
+---
+## 📸 Preview
+
+![Password Generator Screenshot](screenshot.png.png)  
 
 ---
 ## 📦 Installation & Setup
