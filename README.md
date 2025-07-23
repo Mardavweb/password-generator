@@ -31,7 +31,7 @@ A sleek and customizable *Password Generator App* built with *React, **Vite, **T
 
 ## 📸 Preview
 
-![Password Generator Preview](screenshot.png)
+![Password Generator Preview](screenshot.png.png)
 
 ---
 ## 📦 Installation & Setup
